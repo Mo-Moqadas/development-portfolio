@@ -1,7 +1,7 @@
 ## 📄 License
 This project is public for portfolio/demo purposes only. **No license is granted** to use, modify, or distribute the code.
 
-# 🫀 CPR Simulator VR
+# 📦 CPR Simulator VR
 
 A full interactive CPR simulator for Meta Quest, developed in Unity using:
 - **Hurricane VR (HVR)** for VR interaction
